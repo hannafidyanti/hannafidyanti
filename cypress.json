@@ -1,5 +1,5 @@
 {
-    "host": "http://testing.xyz",
-    "host_stag": "https://testingstag.xyz",
+    "host": "http://testing.id",
+    "host_stag": "https://testingstag.id",
     "default_password": "testing@123"
 }
